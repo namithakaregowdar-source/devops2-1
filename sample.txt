@@ -1,2 +1,4 @@
 Hello from main.
 This is my main branch update.
+Hello from branch1.
+This is my branch1 update.
