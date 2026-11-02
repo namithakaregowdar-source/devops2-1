@@ -1,2 +1,2 @@
-Hello, this is my first Git practical.
-I am learning Git and GitHub.
+Hello from main.
+This is my main branch update.
